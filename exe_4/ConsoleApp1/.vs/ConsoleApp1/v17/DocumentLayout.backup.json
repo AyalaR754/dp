@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\consoleapp1\\consoleapp1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\consoleapp1\\consoleapp1\\squre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\squre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\consoleapp1\\consoleapp1\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5CFD09-F8DD-4F35-90C0-AF52294B626F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Line.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Line.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Line.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Line.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:37:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Squre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Squre.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Squre.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Squre.cs",
+              "RelativeToolTip": "ConsoleApp1\\Squre.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:36:58.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\IComponent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\IComponent.cs",
+              "RelativeToolTip": "ConsoleApp1\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:36:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\dp\\exe_4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:34:37.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
